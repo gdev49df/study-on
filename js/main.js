@@ -2,7 +2,7 @@
 (function () {
   'use strict';
 
-  var PHONE = '77008250388';
+  var PHONE = '77000000000';
   var $ = function (s, c) { return (c || document).querySelector(s); };
   var $$ = function (s, c) { return Array.prototype.slice.call((c || document).querySelectorAll(s)); };
   var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;

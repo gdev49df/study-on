@@ -1,1 +1,1 @@
-# Study On — Создано https://instagram.com/bauyrzhanov_12_
+# Study On — Разработано gDev
